@@ -1,3 +1,5 @@
+# Colorado-Employment
+
 This repository contains the data and the RStudio code used to analyze employment and unemployment trends in Colorado presented in the article "Previous Growth, Contemporary Slowdown: Colorado’s Labor Market Amidst Uncertainty."
 
 The data derives from the Bureau of Labor Statistics.
